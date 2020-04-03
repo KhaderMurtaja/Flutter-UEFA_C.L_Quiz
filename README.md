@@ -9,8 +9,8 @@ In this app I reviewed Stateful and Stateless Widgets as well as learning about 
 
 I made a quiz app that tests your general knowledge in UEFA Champions League using 4 questions. As one of the most popular types of apps on the app stores!
 
-![Finished App 01](screenshots\01.jpg)
-![Finished App 02](screenshots\02.jpg)
+![Finished App 01](https://raw.githubusercontent.com/KhaderMurtaja/Flutter-UEFA_C.L_Quiz/master/screenshots/01.jpg)
+![Finished App 02](https://raw.githubusercontent.com/KhaderMurtaja/Flutter-UEFA_C.L_Quiz/master/screenshots/02.jpg)
 
 ## What I have learned
 
